@@ -7,4 +7,4 @@ Resources:
   S3Bucket:
     Type: 'AWS::S3::Bucket'
     Properties:
-      BucketName: 'MikeC-S3-Bucket-Yaml'
+      BucketName: 'mikec-S3-bucket-yaml'
